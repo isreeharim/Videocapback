@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "videocapture-445217",
+  "private_key_id": "dc78911927303af200ce20e06ec356e6dbee2398",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDr7EqBpUiTxtDq\nFTmAdLMiuWs+6cCxHVdRC+Y9i7TTI2fIvh82zWZcstCG4F8mUcchQw/wvC99FYci\nrF2peATpnyxFKrsNxaw2WDHDGhd38tA+FxJ5L8ePkT0vr5cyZEP29H5lynbbXMgm\nvES48hIzsKG1a5u476zrsp/ksXGz3pogQ1Txf1P6AZP5zaOnRCvKyNw0wsucUQe4\nxxssJ5GcydDWD+AL2qldSzyGfyTc2kKjOKxIeKgsNLqijH0UqAuwGvzCxt7+DaYe\nHGhpYdAc9hVuS/DEEOqwTqqSV6DLmO1qlB5DLwbmtbkYPt7yP9ALEPDzXIKOyk5d\nayCSPhf/AgMBAAECggEAAh1LMtqYAY+WCUfYBGNpgEN4bbHAsdwTwrIGo834gSWq\nL+QY27hyanI0fiwq9ZxCwQ52T62ZKVwQmcG4c/pGwtyYHIvI/sqR+4U9KokK5WdY\n39hAffd99WnxQYsfCCbR9tnzHYYZtd8g1ypvIYJokMEINbnOzdk2utXsCLzHlzMe\nTE0bzUXJY+8orxqeSNjibwprEAvGgKAEakwesY7tfRwbD5S+YBIp6zzrBSAlZL0G\nlOSEmviEFDtdCDKtaX61Gtrwm4TDp+NulUHxdGbmkwncuXu2DiLYLx/WfsiQwDKP\nTUn2CbIBh7CmTjNMRqRy/k0N9dLcxPLLR6sQ9yKHsQKBgQD9hbH3aBtRNFGlTxqs\nonIcs5xLvYOkob1xo8C3KnnNG3ZB2sAqOufKfuX4WAbT6aTIKZe3Nr/gtk4aPlWd\nmk6NexkjNl7UinQd2bRhILIacl9yQSd8JxXfA2/7i75a53oxTuzFMSuhM05MQljW\nRMySwoZhFFzYy6DZqR61p7UJbwKBgQDuOpAogLF9q8bSF3ShN1ziKJmGFEspEhbF\nq33uldPIHvHEnFqGDlAhiZuerDYLjlTwB1YQ0qVcxjVXUTyMkD/djo22tq5WydRX\nDO0zzraTxQrvw2fdH1dzPsuVz2i0goP7RQRQ9B/VD4GxpeGzRzgnCJFOLzaNrL8Z\nATRqxTbycQKBgEQ0Foeno0m6WIivek6dOTPNgivCJUtCE/QhiLP+IlxymeLnlbEG\nvdr1PqsMC3IxNhp/TgiFGyO6B9L5mBDZNW7Mghu+Ac8OHGT3b5Z9tEx3HoRfUN8O\nqMyhYRv8IU7VXUMsp3f5XXJ1mgfcBYhHY/3LhVlSoBPW3EQSQme+YW7TAoGBAJUf\nk53G8VP5czuP8zH3tezb/T4w9dt/t0GFWA9BOpDKzgyE0yWXUBGuUfvBURNqxUB7\nVySwt1KbwEgoUf6rTU8jLRJyyC8LqB/Vt6X2f9OARJhReXKxa8x4QnhEnQZhrLxd\nN5Z1OnfkfQr3C5Ftw3irpEmMxFlrCTRdzLIJQZwBAoGAehO93AITu/SrcbVTqeDV\nkhtVSHzNbZT03z1W0Lu+LRb5KHFXA3apz6/VMDOXtga7+Ji+l0ejtIghcXuniKtI\n7auceMVDZasn0QizQBQrBSBySJEZ0GCONLcjppZVwMnRvTj07rOOzJU5F3icAoGo\nIDc/+ISFwa+HkEMITvx3bEM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sreehari@videocapture-445217.iam.gserviceaccount.com",
+  "client_id": "111775322677432328560",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sreehari%40videocapture-445217.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
